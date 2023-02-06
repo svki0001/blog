@@ -1,4 +1,4 @@
-# Git BranchingStrategy
+# Git Branching Strategy
 
 # Git Flow
 
