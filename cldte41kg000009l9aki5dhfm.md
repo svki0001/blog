@@ -2,7 +2,7 @@
 
 # Git Flow
 
-Projects can be developed using GitHub with the following flow:
+Projects can be developed using Git with the following flow:
 
 ![The entire Git Flow (PR = Pull Request)](https://cdn.hashnode.com/res/hashnode/image/upload/v1675722239644/9a7188b0-575e-4df0-be63-92d46b0383a8.png align="center")
 
@@ -26,7 +26,7 @@ The order to merge the branches is as follows:
 
 The `stage` branch can be used for testing. If everything looks good, the tested `stage` is merged into the `main` branch via a pull request.
 
-## Versioning
+# Versioning
 
 Versions are named according to the following pattern:  
 `[MAJOR].[MINOR].[PATCH]`
