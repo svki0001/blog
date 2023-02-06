@@ -34,7 +34,7 @@ After this brief introduction, you just could go and start working on a project 
 
 In the next post, you'll learn about the different types of open source projects that come in and get a quick, straightforward look at open source licenses.
 
-If you have any suggestions, ideas for improvement or questions, you can contact me on GitHub.
+If you have any suggestions, ideas for improvement or questions, you can contact me on [GitHub](https://github.com/svki0001).
 
 You can also find a [german version](https://blog.unixag.net/der-einstieg-in-open-source-1-einfuehrung-in-die-open-source-welt/) of this article on the unixAG blog. The unixAG also meets every Wednesday at Kaiserslautern University of Applied Sciences, Zweibrücken. The meetings are open to everyone and everyone is welcome to join. You can find out more on [our website](https://unixag.net/).
 
