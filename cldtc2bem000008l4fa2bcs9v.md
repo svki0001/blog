@@ -1,4 +1,4 @@
-# A short overview of open source
+# A short overview of Open Source
 
 # This is the best advice given to me
 
