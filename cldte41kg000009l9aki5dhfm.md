@@ -1,4 +1,4 @@
-# Git Flow: A well well-established branching strategy
+# Git Flow: A well-established branching strategy
 
 # Git Flow
 
