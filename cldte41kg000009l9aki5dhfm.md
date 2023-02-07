@@ -23,8 +23,6 @@ In Git Flow, there are several branches used for different purposes:
 * `main`: Published versions. The main branch represents the version that will be released to users.
     
 
-Branch order
-
 The order to merge the branches is as follows:  
 `dev ➡️ stage ➡️ main`
 
