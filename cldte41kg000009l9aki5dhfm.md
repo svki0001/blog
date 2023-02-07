@@ -2,11 +2,15 @@
 
 # Git Flow
 
-Projects can be developed using Git with the following flow:
+Git is a popular version control system used by software developers to manage and track changes in their code. In a Git-based project, the development process can be streamlined using a branching strategy known as *Git Flow*.
+
+Projects can be developed using Git Flow with the following branching strategy:
 
 ![The entire Git Flow (PR = Pull Request)](https://cdn.hashnode.com/res/hashnode/image/upload/v1675722239644/9a7188b0-575e-4df0-be63-92d46b0383a8.png align="center")
 
 # Branches
+
+In Git Flow, there are several branches used for different purposes:
 
 * `feature branch`: For each task started, a new branch is created from dev. As soon as the task is completed, a pull request is created for this feature branch in the dev branch. Feature Branches are named by: \[task number\]-\[task title\], e.g. *11-simulation-widget*
     
@@ -39,3 +43,7 @@ Versions are named according to the following pattern:
     
 
 More info (e.g. pre-release) can be added via the tags in GitHub.
+
+# Conclusion
+
+This Git Flow is a well-established branching strategy for Git-based projects. It helps in streamlining the development process, reducing errors, and making it easier to manage changes in code.
